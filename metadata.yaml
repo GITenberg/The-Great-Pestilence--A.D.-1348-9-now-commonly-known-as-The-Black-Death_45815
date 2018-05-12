@@ -1,0 +1,28 @@
+_repo: The-Great-Pestilence--A.D.-1348-9-now-commonly-known-as-The-Black-Death_45815
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45815-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gasquet, Francis Aidan
+    birthdate: 1846
+    deathdate: 1929
+    gutenberg_agent_id: '37321'
+    url: http://www.gutenberg.org/2009/agents/37321
+description: ''
+gutenberg_issued: '2014-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45815'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RC'
+- !lcsh 'Diseases and history'
+- !lcsh 'Medicine, Medieval'
+- !lcsh 'Black Death'
+title: The Great Pestilence (A.D. 1348-9), Now Commonly Known as the Black Death
+url: http://www.gutenberg.org/ebooks/45815
